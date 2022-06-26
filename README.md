@@ -1,2 +1,7 @@
-# STINTSY-Technical-Report
-STINTSY S14 Project - Technical Report
+# STINTSY Technical Report
+## Members
+* Andre Dominic Ponce
+* Angel Lopez
+* Joshue Salvador Jadie
+
+##### Last Updated: 06/25/22
